@@ -1,0 +1,5 @@
+dv1;Khoa Tin
+dv2;Khoa Toan
+dv3;Khoa Ly
+dv4;Khoa Anh
+dv5;Khoa Van

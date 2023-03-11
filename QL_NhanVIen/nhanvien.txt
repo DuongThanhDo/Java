@@ -1,0 +1,5 @@
+nv1;Nguyen Van A;11/11/1111;2.0;dv1
+nv2;Nguyen Van B;12/12/2002;2.1;dv2
+nv3;Nguyen Van D;12/12/2002;2.1;dv1
+nv4;Nguyen Van D;12/12/2002;2.1;dv1
+nv5;Nguyen Van E;12/12/2002;2.1;dv3
